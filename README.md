@@ -102,4 +102,4 @@ Speech_Emotion/
 ## Author
 
 **VIJAY R**  
-GitHub: https://github.com/vijayr21/Speech-Emotion-Detection-using-Deep-Learning-/edit/main/README.md
+GitHub: https://github.com/vijayr21/Speech-Emotion-Detection-using-Deep-Learning-/tree/main?tab=readme-ov-file
